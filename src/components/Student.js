@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 const Student = () => {
   return (<div>
     <h1>Welcome to Student Page</h1>
